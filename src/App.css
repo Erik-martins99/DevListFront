@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-size: cover; /* Ajusta a imagem para cobrir o corpo da página */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita a repetição da imagem */
+  background-color: #F27052; /* Cor de fundo para fallback */
+}

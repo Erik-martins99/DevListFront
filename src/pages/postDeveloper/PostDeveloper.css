@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 530px;
+    width: 550px;
+    background-color: black;
+    padding: 40px;
+    opacity: 86%;
+    border-radius: 16px;
+}
+
+.form-container-input {
+    height: 50px;
+    text-align: center;
+}
+
+.form-container-button {
+    margin-top: 50px;
+    height: 50px;
+}
